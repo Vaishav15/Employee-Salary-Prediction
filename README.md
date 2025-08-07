@@ -43,7 +43,7 @@ Employee-Salary-Predictor/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Employee-Salary-Predictor.git
+git clone https://github.com/Vaishav15/Employee-Salary-Predictor.git
 cd Employee-Salary-Predictor
 
 2. Install Required Libraries
